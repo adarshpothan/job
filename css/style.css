@@ -118,7 +118,7 @@ body{
 }
 
 .main-banner{
-    background-image: url(/image/hero-bg.png);
+    background-image: url("../image/hero-bg.png");
     background-position: center center;
     display: flex;
     justify-content: center;
